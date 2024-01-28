@@ -22,14 +22,14 @@ This repository contains the smart contract for a proposal system deployed on th
 
 3. **Sepolia Testnet:**
    - Connect MetaMask to the Sepolia testnet.
-   - If Sepolia is not listed, you may need to add the network manually. Refer to [Sepolia Testnet](https://sepolia.io/) for network details.
+   - If Sepolia is not listed, you may need to add the network manually. Refer to [Sepolia Testnet](https://sepolia.io/) for network details or you can connect it from [Chainlink network](https://chainlink.network/).
 
 4. **Compile and Deploy:**
    - Compile the smart contract in Remix.
    - Deploy the contract to the Sepolia testnet using the MetaMask account.
 
 5. **Verify Deployment:**
-   - Once deployed, verify the contract details on the Sepolia testnet explorer.
+   - Once deployed, verify the contract details on the Sepolia testnet explorer/etherscan.
 
 ## Smart Contract Features
 
